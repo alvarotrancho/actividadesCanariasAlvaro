@@ -1,0 +1,45 @@
+nav {
+    background-color: #C7C7C7;
+    padding: 10px;
+    text-align: left;
+    padding-left: 40px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .active {
+    text-decoration: none;
+  }
+
+  body {
+    background-color: blueviolet;
+  }
+
+  .subfooter {
+    padding: 10px;
+    background-color: #43655A;
+  }
+ 
+  .subfooter2 {
+    padding: 10px;
+    background-color: #C7C7C7;
+    text-align: center;
+  }

@@ -1,0 +1,33 @@
+.carousel-item {
+  height: 32rem;
+}
+
+.carousel-control-prev-icon {
+  box-shadow: 6px 0 5px rgba(5, 5, 5, 0.3); 
+  border-radius: 6px;
+  background-color: grey;
+  background-position: center; 
+  background-size: 60% auto; 
+
+}
+
+.carousel-control-next-icon {
+  box-shadow: 6px 0 5px rgba(5, 5, 5, 0.3); 
+  border-radius: 6px;
+  background-color: grey;
+  background-position: center; 
+  background-size: 60% auto; 
+}
+
+.fotoInicio {
+  width: 70vh;
+  height: 50vh;
+  border-radius: 8px;
+  border: 4px;
+}
+
+.container {
+  text-align: center;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
